@@ -1,5 +1,18 @@
+# DISCLAIMER
+USE AT YOUR OWN RISC
+
+AUF EIGENE GEFAHR ZU VERWENDEN
+
+
+
+This is the result of a leisure project. I am not a professional programmer.
+
+Dies ist das Ergebnis eines Freizeitprojektes. Ich bin kein professioneller Programmierer.
+
+
+
 # dbus-goecharger_withPVchange_with_SOC_limits
-Its a REPO for the GO-E Charger for Victron with Changes like SOC Limits
+Its a REPO Fork for the GO-E Charger for Victron with Changes like SOC Limits
 
 Thx to gonzo7734
 
