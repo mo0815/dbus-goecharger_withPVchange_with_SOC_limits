@@ -1,0 +1,4 @@
+#!/bin/sh
+SCRIPT_DIR=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+exec 2>&1
+exec python "$(realpath "$SCRIPT_DIR/../dbus-goecharger.py")"
